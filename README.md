@@ -2,6 +2,7 @@
 huggingface上的nlp课程的notebook
 
 1. TRANSFORMER MODELS
+   
 | **model**       | **examlpes**                               | **task**                                                                         |
 |-----------------|--------------------------------------------|----------------------------------------------------------------------------------|
 | encoder         | ALBERT, BERT, DistilBERT, ELECTRA, RoBERTa | Sentence classification, named entity recognition, extractive question answering |
